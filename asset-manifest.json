@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/newjerseymelee.github.io/static/css/main.f183643f.css",
-    "main.js": "/newjerseymelee.github.io/static/js/main.5f5dd7f4.js",
+    "main.js": "/newjerseymelee.github.io/static/js/main.8751d56a.js",
     "static/media/ight.png": "/newjerseymelee.github.io/static/media/ight.90802e79d2fac622a38d.png",
     "static/media/fudgington.png": "/newjerseymelee.github.io/static/media/fudgington.4778c8b98e503bb1dcb9.png",
-    "static/media/logo.png": "/newjerseymelee.github.io/static/media/logo.b2b2030be0ce89cbb858.png",
     "static/media/vomit.png": "/newjerseymelee.github.io/static/media/vomit.f0e20ab43b5150d3a294.png",
     "static/media/FUDGE.jpg": "/newjerseymelee.github.io/static/media/FUDGE.573e8bb9040a199e6415.jpg",
     "static/media/bowser_default.png": "/newjerseymelee.github.io/static/media/bowser_default.502f9ee7fc954239fa5d.png",
@@ -54,10 +53,10 @@
     "static/media/BronzeI.svg": "/newjerseymelee.github.io/static/media/BronzeI.f4a5615366a7162c5cbe84a8fe3e3b72.svg",
     "index.html": "/newjerseymelee.github.io/index.html",
     "main.f183643f.css.map": "/newjerseymelee.github.io/static/css/main.f183643f.css.map",
-    "main.5f5dd7f4.js.map": "/newjerseymelee.github.io/static/js/main.5f5dd7f4.js.map"
+    "main.8751d56a.js.map": "/newjerseymelee.github.io/static/js/main.8751d56a.js.map"
   },
   "entrypoints": [
     "static/css/main.f183643f.css",
-    "static/js/main.5f5dd7f4.js"
+    "static/js/main.8751d56a.js"
   ]
 }
