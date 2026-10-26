@@ -7,7 +7,7 @@ export async function addPlayer(code: string): Promise<IAddPlayerResponse> {
         method: "POST",
         headers: { code }
     };
-    const response = await (fetch("https://addplayer-tsno6gjbiq-uc.a.run.app", requestOptions));
+   const response = await (fetch("https://initial-weddings-semester-estimate.trycloudflare.com/api/nj/players", requestOptions));
     const responseJson = await response.json();
     return { status: response.status, message: responseJson.message };
 };
