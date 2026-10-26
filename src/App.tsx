@@ -180,7 +180,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="title">Philly Melee Leaderboard</h1>
+        <h1 className="title">New Jersey Melee Leaderboard</h1>
         <h2 className="updated">
           Updates automatically every {refreshRate} minutes
         </h2>
@@ -297,17 +297,18 @@ function App() {
       </div>
 
       <div className="footer">
-        Made by <span className="skaht">skaht</span> -{" "}
+        Made by <span className="skaht">skaht</span> | Updated by{" "}
+<span className="skaht">Miffee</span> -{" "}
         <span className="icons">
           <a
-            href="https://github.com/phillymelee/phillymelee.github.io"
+            href="https://github.com/Mifee/newjerseymeleee.github.io"
             target="_blank"
             rel="noreferrer"
           >
             <i className="fab fa-github social-icon"></i>
           </a>
           <a
-            href="https://discord.gg/zjKk9vEQNp"
+            href="https://discord.gg/Z6FCfzF"
             target="_blank"
             rel="noreferrer"
           >
