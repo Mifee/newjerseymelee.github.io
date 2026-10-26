@@ -1,7 +1,6 @@
 // App.tsx
 
 import { useEffect, useState } from "react";
-import logo from "./assets/misc/NewJerseyMelee.png";
 import "./App.css";
 import { getRanks } from "./utils/fetchRanks";
 import {
@@ -157,7 +156,7 @@ function App() {
     return (
       <div className="App logoView">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={`${process.env.PUBLIC_URL}/NewJerseyMelee.png`} className="App-logo" alt="New Jersey Melee logo" />
         </header>
       </div>
     );
@@ -179,7 +178,13 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+	<header className="App-header">
+  <img
+    src={`${process.env.PUBLIC_URL}/NewJerseyMelee.png`}
+    className="App-logo"
+    alt="New Jersey Melee logo"
+  />
+  <h1 className="title">New Jersey Melee Leaderboard</h1>
         <h1 className="title">New Jersey Melee Leaderboard</h1>
         <h2 className="updated">
           Updates automatically every {refreshRate} minutes
