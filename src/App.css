@@ -495,3 +495,12 @@ a:active {
 .negative{
   color: lightcoral;
 }
+
+.header-logo {
+  width: 120px;
+  height: auto;
+  max-height: 120px;
+  object-fit: contain;
+  animation: none;
+  pointer-events: none;
+}

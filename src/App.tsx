@@ -181,15 +181,14 @@ function App() {
 	<header className="App-header">
   <img
     src={`${process.env.PUBLIC_URL}/NewJerseyMelee.png`}
-    className="App-logo"
+    className="header-logo"
     alt="New Jersey Melee logo"
   />
   <h1 className="title">New Jersey Melee Leaderboard</h1>
-        <h1 className="title">New Jersey Melee Leaderboard</h1>
-        <h2 className="updated">
-          Updates automatically every {refreshRate} minutes
-        </h2>
-      </header>
+  <h2 className="updated">
+    Updates automatically every {refreshRate} minutes
+  </h2>
+</header>
       <div className="App-body">
         <div className="tableWrapper">
           <table>
