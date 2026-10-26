@@ -1,10 +1,10 @@
-# [phillymelee.github.io](https://phillymelee.github.io/)
+# [newjerseyymelee.github.io](https://newjerseymelee.github.io/)
 
 ## Overview
 
-A simple webpage that displays the [Slippi](https://slippi.gg/) ranks of participating Philadelphia melee players.
+A simple webpage that displays the [Slippi](https://slippi.gg/) ranks of participating New Jersey melee players.
 
-If you are interested in the community, join the [Philly Melee Discord](https://discord.gg/zjKk9vEQNp)!
+If you are interested in the community, join the [New Jersey Melee Discord](https://discord.gg/Z6FCfzF)!
 
 ## Repository Breakdown
 
@@ -23,4 +23,4 @@ Lastly, there is a simple [Discord](https://discord.com/) bot in the `discord` d
 
 ## Contributing
 
-If you would like to contribute, please feel free to open a PR. If you have any questions, you can contact me directly on discord (username: `skaht`).
+If you would like to contribute, please feel free to open a PR. If you have any questions, you can contact me directly on discord (username: `skaht`), or for new jersey (username: `Miffee`)
