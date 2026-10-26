@@ -1,7 +1,7 @@
 // App.tsx
 
 import { useEffect, useState } from "react";
-import logo from "./assets/misc/logo.png";
+import logo from "./assets/misc/NewJerseyMelee.png";
 import "./App.css";
 import { getRanks } from "./utils/fetchRanks";
 import {
