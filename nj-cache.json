@@ -1,6 +1,17 @@
 {
-  "lastUpdated": 1793088881959,
+  "lastUpdated": 1793089785994,
   "playerRanks": [
+    {
+      "tag": "kdog",
+      "code": "KDOG#261",
+      "rank": "Grandmaster",
+      "elo": 2578.8553271306478,
+      "wins": 29,
+      "losses": 5,
+      "character": "MARTH",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
     {
       "tag": "404Cray",
       "code": "CRAY#527",
@@ -11,6 +22,39 @@
       "character": "FALCO",
       "eloDelta": 0,
       "rankChange": "new"
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2542.1786470198763,
+      "wins": 103,
+      "losses": 25,
+      "character": "PEACH",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
+    {
+      "tag": "Tempo",
+      "code": "TEMP#0",
+      "rank": "Grandmaster",
+      "elo": 2475.825763100969,
+      "wins": 18,
+      "losses": 2,
+      "character": "SHEIK",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
+    {
+      "tag": "Skypiea",
+      "code": "SKYE#503",
+      "rank": "Silver 2",
+      "elo": 1281.7464113764372,
+      "wins": 4,
+      "losses": 3,
+      "character": "YOSHI",
+      "rankChange": "new",
+      "eloDelta": 0
     },
     {
       "tag": "PeanutbuttaRyan",
