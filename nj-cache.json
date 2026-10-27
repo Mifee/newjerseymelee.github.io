@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793087981920,
+  "lastUpdated": 1793088881959,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -20,8 +20,8 @@
       "wins": 6,
       "losses": 8,
       "character": "MARTH",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     }
   ]
 }
