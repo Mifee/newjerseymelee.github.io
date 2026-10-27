@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793127070954,
+  "lastUpdated": 1793127971981,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -81,6 +81,17 @@
       "character": "CAPTAIN_FALCON",
       "eloDelta": 0,
       "rankChange": "new"
+    },
+    {
+      "tag": "asgorefan2010",
+      "code": "ABOV#540",
+      "rank": "Gold 2",
+      "elo": 1577.7292851198715,
+      "wins": 22,
+      "losses": 16,
+      "character": "GAME_AND_WATCH",
+      "rankChange": "new",
+      "eloDelta": 0
     },
     {
       "tag": "The_Milkman",
