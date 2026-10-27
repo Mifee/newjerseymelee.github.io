@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793086181280,
+  "lastUpdated": 1793087981920,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -11,6 +11,17 @@
       "character": "FALCO",
       "eloDelta": 0,
       "rankChange": "new"
+    },
+    {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1272.501698178881,
+      "wins": 6,
+      "losses": 8,
+      "character": "MARTH",
+      "rankChange": "new",
+      "eloDelta": 0
     }
   ]
 }
