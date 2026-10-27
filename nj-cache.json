@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793092486801,
+  "lastUpdated": 1793093386101,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -10,8 +10,8 @@
       "losses": 5,
       "character": "MARTH",
       "yesterdayElo": 2578.8553271306478,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     },
     {
       "tag": "404Cray",
@@ -22,8 +22,8 @@
       "losses": 8,
       "character": "FALCO",
       "yesterdayElo": 2542.766253051537,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     },
     {
       "tag": "stupid song",
@@ -34,8 +34,8 @@
       "losses": 25,
       "character": "PEACH",
       "yesterdayElo": 2542.1786470198763,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     },
     {
       "tag": "Tempo",
@@ -46,8 +46,8 @@
       "losses": 2,
       "character": "SHEIK",
       "yesterdayElo": 2475.825763100969,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     },
     {
       "tag": "Skypiea",
@@ -58,8 +58,8 @@
       "losses": 3,
       "character": "YOSHI",
       "yesterdayElo": 1281.7464113764372,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     },
     {
       "tag": "PeanutbuttaRyan",
@@ -70,8 +70,8 @@
       "losses": 8,
       "character": "MARTH",
       "yesterdayElo": 1272.501698178881,
-      "rankChange": "none",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "none"
     }
   ]
 }
