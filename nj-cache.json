@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793120575219,
+  "lastUpdated": 1793121492593,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -50,6 +50,28 @@
       "rankChange": "none"
     },
     {
+      "tag": "The_Milkman",
+      "code": "MILK#228",
+      "rank": "Gold 1",
+      "elo": 1513.3402896964496,
+      "wins": 5,
+      "losses": 3,
+      "character": "JIGGLYPUFF",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
+    {
+      "tag": "SWAGHAVER69",
+      "code": "HLWY#908",
+      "rank": "Silver 3",
+      "elo": 1346.7717344843436,
+      "wins": 3,
+      "losses": 2,
+      "character": "SHEIK",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
+    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -72,6 +94,17 @@
       "yesterdayElo": 1272.501698178881,
       "eloDelta": 0,
       "rankChange": "none"
+    },
+    {
+      "tag": "antwanfan400",
+      "code": "DESO#590",
+      "rank": "Silver 2",
+      "elo": 1245.667415848263,
+      "wins": 1,
+      "losses": 4,
+      "character": "MARTH",
+      "rankChange": "new",
+      "eloDelta": 0
     }
   ]
 }
