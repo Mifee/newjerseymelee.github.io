@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793136075194,
+  "lastUpdated": 1793136975315,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -29,13 +29,13 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2542.1786470198763,
-      "wins": 103,
-      "losses": 25,
+      "elo": 2512.0245461011364,
+      "wins": 104,
+      "losses": 26,
       "character": "PEACH",
       "yesterdayElo": 2542.1786470198763,
-      "eloDelta": 0,
-      "rankChange": "none"
+      "eloDelta": -30.154100918739914,
+      "rankChange": "down"
     },
     {
       "tag": "Tempo",
