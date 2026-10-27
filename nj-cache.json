@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793089785994,
+  "lastUpdated": 1793090686771,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -9,8 +9,8 @@
       "wins": 29,
       "losses": 5,
       "character": "MARTH",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "404Cray",
@@ -31,8 +31,8 @@
       "wins": 103,
       "losses": 25,
       "character": "PEACH",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "Tempo",
@@ -42,8 +42,8 @@
       "wins": 18,
       "losses": 2,
       "character": "SHEIK",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "Skypiea",
@@ -53,8 +53,8 @@
       "wins": 4,
       "losses": 3,
       "character": "YOSHI",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "PeanutbuttaRyan",
