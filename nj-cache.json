@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793128874012,
+  "lastUpdated": 1793129774011,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -68,8 +68,8 @@
       "wins": 15,
       "losses": 12,
       "character": "DR_MARIO",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "JigglingMyPuffs",
