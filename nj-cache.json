@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793122392611,
+  "lastUpdated": 1793123293687,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -48,6 +48,17 @@
       "yesterdayElo": 2475.825763100969,
       "eloDelta": 0,
       "rankChange": "none"
+    },
+    {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 2",
+      "elo": 1886.9626297481204,
+      "wins": 33,
+      "losses": 34,
+      "character": "FALCO",
+      "rankChange": "new",
+      "eloDelta": 0
     },
     {
       "tag": "The_Milkman",
