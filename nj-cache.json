@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793121492593,
+  "lastUpdated": 1793122392611,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -57,8 +57,8 @@
       "wins": 5,
       "losses": 3,
       "character": "JIGGLYPUFF",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "SWAGHAVER69",
@@ -68,8 +68,8 @@
       "wins": 3,
       "losses": 2,
       "character": "SHEIK",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "Skypiea",
@@ -103,8 +103,8 @@
       "wins": 1,
       "losses": 4,
       "character": "MARTH",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     }
   ]
 }
