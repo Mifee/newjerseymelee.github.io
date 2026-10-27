@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793127971981,
+  "lastUpdated": 1793128874012,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -61,6 +61,17 @@
       "rankChange": "new"
     },
     {
+      "tag": "Virus",
+      "code": "MELE#292",
+      "rank": "Platinum 2",
+      "elo": 1872.794689641668,
+      "wins": 15,
+      "losses": 12,
+      "character": "DR_MARIO",
+      "rankChange": "new",
+      "eloDelta": 0
+    },
+    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 2",
@@ -90,8 +101,8 @@
       "wins": 22,
       "losses": 16,
       "character": "GAME_AND_WATCH",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "The_Milkman",
