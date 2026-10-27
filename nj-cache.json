@@ -1,0 +1,38 @@
+{
+  "lastUpdated": 1793063361742,
+  "playerRanks": [
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2528.7569407969004,
+      "wins": 41,
+      "losses": 8,
+      "character": "FALCO",
+      "eloDelta": 0,
+      "rankChange": "new"
+    },
+    {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 3",
+      "elo": 1329.4007040399579,
+      "wins": 6,
+      "losses": 6,
+      "character": "MARTH",
+      "eloDelta": 0,
+      "rankChange": "new"
+    },
+    {
+      "tag": "Skypiea",
+      "code": "SKYE#503",
+      "rank": "Silver 2",
+      "elo": 1281.7464113764372,
+      "wins": 4,
+      "losses": 3,
+      "character": "YOSHI",
+      "rankChange": "new",
+      "eloDelta": 0
+    }
+  ]
+}
