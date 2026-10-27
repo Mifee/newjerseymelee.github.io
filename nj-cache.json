@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793125256524,
+  "lastUpdated": 1793126170963,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -70,6 +70,17 @@
       "character": "JIGGLYPUFF",
       "eloDelta": 0,
       "rankChange": "new"
+    },
+    {
+      "tag": "Anchor",
+      "code": "ANCHOR#0",
+      "rank": "Platinum 1",
+      "elo": 1829.85787278354,
+      "wins": 6,
+      "losses": 7,
+      "character": "CAPTAIN_FALCON",
+      "rankChange": "new",
+      "eloDelta": 0
     },
     {
       "tag": "The_Milkman",
