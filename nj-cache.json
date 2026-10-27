@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793124194782,
+  "lastUpdated": 1793125094642,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -68,8 +68,8 @@
       "wins": 22,
       "losses": 22,
       "character": "JIGGLYPUFF",
-      "rankChange": "new",
-      "eloDelta": 0
+      "eloDelta": 0,
+      "rankChange": "new"
     },
     {
       "tag": "The_Milkman",
