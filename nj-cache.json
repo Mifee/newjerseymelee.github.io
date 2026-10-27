@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793136975315,
+  "lastUpdated": 1793137682357,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -11,7 +11,8 @@
       "character": "MARTH",
       "yesterdayElo": 2578.8553271306478,
       "eloDelta": 0,
-      "rankChange": "none"
+      "rankChange": "none",
+      "location": null
     },
     {
       "tag": "404Cray",
@@ -23,19 +24,21 @@
       "character": "FALCO",
       "yesterdayElo": 2542.766253051537,
       "eloDelta": 0,
-      "rankChange": "none"
+      "rankChange": "none",
+      "location": null
     },
     {
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2512.0245461011364,
+      "elo": 2479.941640820278,
       "wins": 104,
-      "losses": 26,
+      "losses": 27,
       "character": "PEACH",
       "yesterdayElo": 2542.1786470198763,
-      "eloDelta": -30.154100918739914,
-      "rankChange": "down"
+      "eloDelta": -62.237006199598454,
+      "rankChange": "down",
+      "location": null
     },
     {
       "tag": "Tempo",
@@ -47,7 +50,8 @@
       "character": "SHEIK",
       "yesterdayElo": 2475.825763100969,
       "eloDelta": 0,
-      "rankChange": "none"
+      "rankChange": "none",
+      "location": null
     },
     {
       "tag": "ernie",
@@ -58,7 +62,8 @@
       "losses": 34,
       "character": "FALCO",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "Virus",
@@ -69,7 +74,8 @@
       "losses": 12,
       "character": "DR_MARIO",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "JigglingMyPuffs",
@@ -80,7 +86,8 @@
       "losses": 22,
       "character": "JIGGLYPUFF",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "Anchor",
@@ -91,7 +98,8 @@
       "losses": 7,
       "character": "CAPTAIN_FALCON",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "asgorefan2010",
@@ -102,7 +110,8 @@
       "losses": 16,
       "character": "GAME_AND_WATCH",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "The_Milkman",
@@ -113,7 +122,8 @@
       "losses": 3,
       "character": "JIGGLYPUFF",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "SWAGHAVER69",
@@ -124,7 +134,8 @@
       "losses": 2,
       "character": "SHEIK",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     },
     {
       "tag": "Skypiea",
@@ -136,7 +147,8 @@
       "character": "YOSHI",
       "yesterdayElo": 1281.7464113764372,
       "eloDelta": 0,
-      "rankChange": "none"
+      "rankChange": "none",
+      "location": null
     },
     {
       "tag": "PeanutbuttaRyan",
@@ -148,7 +160,8 @@
       "character": "MARTH",
       "yesterdayElo": 1272.501698178881,
       "eloDelta": 0,
-      "rankChange": "none"
+      "rankChange": "none",
+      "location": null
     },
     {
       "tag": "antwanfan400",
@@ -159,7 +172,8 @@
       "losses": 4,
       "character": "MARTH",
       "eloDelta": 0,
-      "rankChange": "new"
+      "rankChange": "new",
+      "location": null
     }
   ]
 }
