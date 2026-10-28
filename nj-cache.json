@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793164010804,
+  "lastUpdated": 1793164910807,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -105,9 +105,9 @@
       "tag": "raspberry",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1784.3403068556731,
-      "wins": 32,
-      "losses": 33,
+      "elo": 1790.8295577499525,
+      "wins": 33,
+      "losses": 34,
       "character": "CAPTAIN_FALCON",
       "eloDelta": 0,
       "rankChange": "new",
