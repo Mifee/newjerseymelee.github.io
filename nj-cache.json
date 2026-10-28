@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793205414735,
+  "lastUpdated": 1793206254696,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -194,7 +194,7 @@
       "yesterdayElo": 1245.667415848263,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null
+      "location": "ocean"
     }
   ]
 }
