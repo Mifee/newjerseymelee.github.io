@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793150147440,
+  "lastUpdated": 1793151047237,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -31,12 +31,12 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2483.209895794943,
-      "wins": 105,
+      "elo": 2493.6368820451744,
+      "wins": 107,
       "losses": 27,
       "character": "PEACH",
       "yesterdayElo": 2542.1786470198763,
-      "eloDelta": -58.968751224933385,
+      "eloDelta": -48.54176497470189,
       "rankChange": "down",
       "location": null
     },
@@ -176,7 +176,7 @@
       "location": null
     },
     {
-      "tag": "antwanfan400",
+      "tag": "milkmanfan400",
       "code": "DESO#590",
       "rank": "Silver 2",
       "elo": 1245.667415848263,
