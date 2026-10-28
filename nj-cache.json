@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793159147339,
+  "lastUpdated": 1793163097727,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -105,9 +105,9 @@
       "tag": "raspberry",
       "code": "BEL#294",
       "rank": "Gold 3",
-      "elo": 1732.598254337223,
-      "wins": 25,
-      "losses": 28,
+      "elo": 1748.3233239473825,
+      "wins": 30,
+      "losses": 33,
       "character": "CAPTAIN_FALCON",
       "eloDelta": 0,
       "rankChange": "new",
@@ -173,10 +173,10 @@
       "yesterdayElo": 1272.501698178881,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null
+      "location": "ocean"
     },
     {
-      "tag": "milkmanfan400",
+      "tag": "asidyxfan400",
       "code": "DESO#590",
       "rank": "Silver 2",
       "elo": 1245.667415848263,
