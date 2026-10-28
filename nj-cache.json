@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793147447204,
+  "lastUpdated": 1793148347184,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -109,8 +109,8 @@
       "wins": 25,
       "losses": 25,
       "character": "CAPTAIN_FALCON",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null
     },
     {
