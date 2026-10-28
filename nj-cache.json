@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793178411028,
+  "lastUpdated": 1793179311048,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -10,8 +10,8 @@
       "losses": 5,
       "character": "MARTH",
       "yesterdayElo": 2578.8553271306478,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -23,8 +23,8 @@
       "losses": 8,
       "character": "FALCO",
       "yesterdayElo": 2542.766253051537,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -36,8 +36,8 @@
       "losses": 2,
       "character": "SHEIK",
       "yesterdayElo": 2475.825763100969,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -49,8 +49,8 @@
       "losses": 29,
       "character": "PEACH",
       "yesterdayElo": 2448.9757516803747,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -62,8 +62,8 @@
       "losses": 34,
       "character": "FALCO",
       "yesterdayElo": 1886.9626297481204,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -75,8 +75,8 @@
       "losses": 12,
       "character": "DR_MARIO",
       "yesterdayElo": 1872.794689641668,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -88,8 +88,8 @@
       "losses": 22,
       "character": "JIGGLYPUFF",
       "yesterdayElo": 1856.9136586744908,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -101,8 +101,8 @@
       "losses": 7,
       "character": "CAPTAIN_FALCON",
       "yesterdayElo": 1829.85787278354,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -114,8 +114,8 @@
       "losses": 36,
       "character": "CAPTAIN_FALCON",
       "yesterdayElo": 1753.0972113578832,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -127,8 +127,8 @@
       "losses": 16,
       "character": "GAME_AND_WATCH",
       "yesterdayElo": 1611.5498377425226,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -140,8 +140,8 @@
       "losses": 3,
       "character": "JIGGLYPUFF",
       "yesterdayElo": 1513.3402896964496,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -153,8 +153,8 @@
       "losses": 2,
       "character": "SHEIK",
       "yesterdayElo": 1493.0816745470645,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     },
     {
@@ -166,8 +166,8 @@
       "losses": 3,
       "character": "YOSHI",
       "yesterdayElo": 1281.7464113764372,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": "south"
     },
     {
@@ -179,8 +179,8 @@
       "losses": 8,
       "character": "MARTH",
       "yesterdayElo": 1272.501698178881,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": "ocean"
     },
     {
@@ -192,8 +192,8 @@
       "losses": 4,
       "character": "MARTH",
       "yesterdayElo": 1245.667415848263,
-      "rankChange": "none",
       "eloDelta": 0,
+      "rankChange": "none",
       "location": null
     }
   ]
