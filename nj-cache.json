@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793154647296,
+  "lastUpdated": 1793155547327,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -28,19 +28,6 @@
       "location": null
     },
     {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2478.4785209963366,
-      "wins": 107,
-      "losses": 28,
-      "character": "PEACH",
-      "yesterdayElo": 2542.1786470198763,
-      "eloDelta": -63.700126023539724,
-      "rankChange": "down",
-      "location": null
-    },
-    {
       "tag": "Tempo",
       "code": "TEMP#0",
       "rank": "Grandmaster",
@@ -51,6 +38,19 @@
       "yesterdayElo": 2475.825763100969,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2448.9757516803747,
+      "wins": 108,
+      "losses": 29,
+      "character": "PEACH",
+      "yesterdayElo": 2542.1786470198763,
+      "eloDelta": -93.20289533950154,
+      "rankChange": "down",
       "location": null
     },
     {
@@ -117,8 +117,8 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 2",
-      "elo": 1577.7292851198715,
-      "wins": 22,
+      "elo": 1588.941809740431,
+      "wins": 23,
       "losses": 16,
       "character": "GAME_AND_WATCH",
       "eloDelta": 0,
